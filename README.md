@@ -1,7 +1,7 @@
 # Análise Interativa de Progresso de Treinos - Hevy Data Visualizer
 
-![Badge de Licença](https://img.shields.io/badge/license-MIT-blue.svg) <!-- Opcional: Escolha uma licença -->
-![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg) <!-- Opcional: Versão do Python -->
+![Badge de Licença](https://img.shields.io/badge/license-MIT-blue.svg)
+![Python Version](https://img.shields.io/badge/python-3.11+-blue.svg)
 
 Uma ferramenta para visualizar e analisar seu progresso em treinos de musculação, utilizando dados exportados do popular aplicativo Hevy. Este projeto transforma seus dados brutos em gráficos interativos, permitindo uma compreensão clara da sua evolução ao longo do tempo.
 
