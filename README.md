@@ -5,8 +5,7 @@
 
 Uma ferramenta para visualizar e analisar seu progresso em treinos de musculação, utilizando dados exportados do popular aplicativo Hevy. Este projeto transforma seus dados brutos em gráficos interativos, permitindo uma compreensão clara da sua evolução ao longo do tempo.
 
-<!-- Opcional: Adicione um screenshot ou GIF do resultado final aqui -->
-<!-- ![Screenshot da Aplicação](link_para_seu_screenshot.png) -->
+## Veja a demonstração online: [**Acesse a Aplicação Aqui**](https://santos-nikolas.github.io/Hevy/)
 
 ## ✨ Sobre o Projeto
 
